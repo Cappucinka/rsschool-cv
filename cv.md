@@ -42,6 +42,8 @@ LLC Optima Consulting
 
 HTML-developer
 
+### This is JavaScript Example from my [Portfolio](http://vika.bagrov.me/)
+
 ```js script
 let isSliderUnabled = false;
 const upBtn = document.querySelector('.controls__button_dir_up');

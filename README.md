@@ -1,1 +1,1 @@
-# rsschool-cv
+https://cappucinka.github.io/rsschool-cv/

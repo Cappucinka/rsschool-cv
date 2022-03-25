@@ -52,7 +52,7 @@ LLC Optima Consulting
 
 HTML-developer
 
-### This is JavaScript Example from my [Portfolio](http://vika.bagrov.me/)
+### This is JavaScript Example from [Portfolio](http://vika.bagrov.me/)
 
 ```javascript
 let isSliderUnabled = false;

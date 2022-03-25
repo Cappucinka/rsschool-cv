@@ -1,1 +1,1 @@
-https://cappucinka.github.io/rsschool-cv/cv
+https://cappucinka.github.io/rsschool-cv/
